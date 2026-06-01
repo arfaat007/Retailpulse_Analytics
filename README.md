@@ -71,7 +71,7 @@ The project includes MySQL queries for:
 
 ### Executive Overview
 
-![Executive Overview](images/dashboard_screenshots/executive_overview.png)
+![Executive Overview]([images/dashboard_screenshots/executive_overview.png](https://github.com/arfaat007/Retailpulse_Analytics/blob/main/images/dashboards_screenshots/Customer%20Product%20insights.png))
 
 ### Sales Analysis
 

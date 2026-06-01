@@ -83,7 +83,7 @@ The project includes MySQL queries for:
 
 ### Customer & Product Insights
 
-![Customer Product Insights](images/dashboard_screenshots/Customer_Product_insights.png)
+![Customer Product Insights](images/dashboards_screenshots/Customer_Product_insights.png)
 
 ## Business Recommendations
 

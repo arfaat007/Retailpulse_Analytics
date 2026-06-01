@@ -71,19 +71,19 @@ The project includes MySQL queries for:
 
 ### Executive Overview
 
-![Executive Overview]([images/dashboard_screenshots/executive_overview.png](https://github.com/arfaat007/Retailpulse_Analytics/blob/main/images/dashboards_screenshots/Customer%20Product%20insights.png))
+![Executive Overview](images/dashboards_screenshots/executive_overview.png)
 
 ### Sales Analysis
 
-![Sales Analysis](images/dashboard_screenshots/sales_analysis.png)
+![Sales Analysis](images/dashboards_screenshots/sales_analysis.png)
 
 ### Profit & Loss Analysis
 
-![Profit & Loss Analysis](images/dashboard_screenshots/profit_loss_analysis.png)
+![Profit & Loss Analysis](images/dashboards_screenshots/Profit_loss_Analysis.png)
 
 ### Customer & Product Insights
 
-![Customer Product Insights](images/dashboard_screenshots/customer_product_insights.png)
+![Customer Product Insights](images/dashboard_screenshots/Customer_Product_insights.png)
 
 ## Business Recommendations
 
